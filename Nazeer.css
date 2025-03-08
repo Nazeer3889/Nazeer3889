@@ -1,0 +1,22 @@
+/* Styles for Nazeer Profile */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.text-gray-600 {
+    color: #6b7280;
+}
+.body-font {
+    font-family: 'Open Sans', sans-serif;
+}
+.text-gray-900 {
+    color: #1a1d23;
+}
+.bg-indigo-500 {
+    background-color: #6610f2;
+}
+.bg-gray-100 {
+    background-color: #f7fafc;
+}
+.hover:bg-gray-200 {
+    background-color: #edf2f7;
+}
