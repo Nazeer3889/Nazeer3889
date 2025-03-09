@@ -1,22 +1,11 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Nazeer Ul faizan👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Nazeer Ul faizan👋<a href="(https://github.com/Nazeer3889/Nazeer3889.git)"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+👨‍💻 Generative AI Trainee 
 	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
-
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
- 
 <h2>Tech Stack</h2>
 
 <table width="100">
@@ -81,9 +70,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/hammad-nadeem-6673981b5/](https://www.linkedin.com/feed/?legoTrackingToken=0McjRBuCBjum5Is7dFp2oMbz0Zpn9LoRdT9zROol1Ipl9T9zRArQRIpl9T9zAVejAVfmhBt7dBtn5BkCRRrypejQBkildfk3RVgD9Bp79ft6lDp6BT9CJOrTtvrThvrClMrRYOtChxs6xzrDlxr3RAinhBpShFtOoNfmVLqnhFsSZgt6lDp6BT9z0Kc3RBsCZzkT9D9zROol1Ipl9OpOoZp6Zdr6lisCsCc3RKrSBQqndLk71RrT9D9zAVejAVfmhBt7dBtn5BkCRRjD1RrT9D9DdKrSBQoS4Zp4BMtmZOpOpejQBkildfk3RVgD9Bp79L9DhItm5CpmgZp4BQrClJpSlP9DdyrSEZp4BQrSNP9DhItm5CpmgZp4BQtmZVomMCcDpAon1EoSVRomMZpmRxjClDon0Cq7hTrT9Dfmh9s71x9zkMejkUczRAimVLqndOpnoCcz4Pd38McjkSfmh9tioScPdxozsMe34QdC4JomdAeiQQcC8Qbm5AcCcJdCkUomlBpjcZp4BQu6lQrCZz&trk=opento_lp)"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:n.faizan678@gmail.com"><img src="https://img.shields.io/badge/-n.faizan678@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
